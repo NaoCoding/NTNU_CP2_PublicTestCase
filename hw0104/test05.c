@@ -1,0 +1,13 @@
+#include "xiangqi.h"
+#include <stdio.h>
+
+int main() {
+    sXiangqiRecord * board = initXiangqiRecord();
+
+    printf("-1\n");
+    printf("%d\n", moveXiangqiRecord(board, 0, 0, 0, 0));
+
+    freeXiangqiRecord(board);
+
+    return 0;
+}
