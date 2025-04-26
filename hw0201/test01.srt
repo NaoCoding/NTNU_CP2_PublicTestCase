@@ -1,0 +1,1230 @@
+1
+00:00:03,534 --> 00:00:19,448
+(Applause)
+
+2
+00:00:19,449 --> 00:00:20,850
+NEO: As a species,
+
+3
+00:00:20,851 --> 00:00:23,386
+humans have mastered energy
+to the level where it is,
+
+4
+00:00:23,387 --> 00:00:26,422
+for all practical purposes,
+completely abundant.
+
+5
+00:00:26,423 --> 00:00:27,857
+200 years ago,
+
+6
+00:00:27,858 --> 00:00:31,260
+no one could have imagined a world
+where energy was so accessible
+
+7
+00:00:31,261 --> 00:00:33,896
+that most people
+would take it for granted.
+
+8
+00:00:33,897 --> 00:00:36,065
+If you had asked the smartest
+person on Earth
+
+9
+00:00:36,066 --> 00:00:39,702
+whether we could one day summon light
+with the flip of a switch,
+
+10
+00:00:39,703 --> 00:00:41,604
+they would have said it was impossible.
+
+11
+00:00:41,605 --> 00:00:45,374
+Even if the brightest minds
+worked on it together for an eternity.
+
+12
+00:00:45,375 --> 00:00:47,443
+But today, it's just that easy.
+
+13
+00:00:47,444 --> 00:00:48,644
+Energy is everywhere.
+
+14
+00:00:48,645 --> 00:00:51,047
+All around us, all of the time.
+
+15
+00:00:51,048 --> 00:00:54,517
+Now what if I told you that the same
+is about to happen with labor?
+
+16
+00:00:54,518 --> 00:00:56,953
+We are standing at the gates of a future
+
+17
+00:00:56,954 --> 00:01:00,022
+where the work needed
+to build the products we use,
+
+18
+00:01:00,023 --> 00:01:01,857
+the services we rely on
+
+19
+00:01:01,858 --> 00:01:05,361
+and even the chores in our homes
+will be as effortlessly accessible
+
+20
+00:01:05,362 --> 00:01:06,996
+as energy is today,
+
+21
+00:01:06,997 --> 00:01:09,365
+enabling you to explore new frontiers
+
+22
+00:01:09,366 --> 00:01:12,935
+and focus on what makes you truly human.
+
+23
+00:01:12,936 --> 00:01:19,475
+Thank you.
+
+24
+00:01:19,476 --> 00:01:24,714
+(Applause)
+
+25
+00:01:24,715 --> 00:01:26,215
+Bernt Børnich: Thank you, NEO.
+
+26
+00:01:26,216 --> 00:01:30,820
+You're the best.
+
+27
+00:01:30,821 --> 00:01:33,155
+It's an amazing machine, right?
+
+28
+00:01:33,156 --> 00:01:34,323
+Audience: Yeah.
+
+29
+00:01:34,324 --> 00:01:37,927
+(Applause)
+
+30
+00:01:37,928 --> 00:01:40,863
+BB: So I spent the last decade of my life
+
+31
+00:01:40,864 --> 00:01:44,734
+working on building
+humanoid robots like NEO.
+
+32
+00:01:44,735 --> 00:01:47,937
+Robots that will hopefully
+soon be able to do
+
+33
+00:01:47,938 --> 00:01:50,840
+almost anything that we could imagine.
+
+34
+00:01:50,841 --> 00:01:53,943
+Now whether this is
+helping you with the dishes,
+
+35
+00:01:53,944 --> 00:01:55,478
+helping you do your laundry
+
+36
+00:01:55,479 --> 00:01:59,515
+or whether this is helping
+your aging grandma,
+
+37
+00:01:59,516 --> 00:02:03,519
+there's never really been a time
+better for robots.
+
+38
+00:02:03,520 --> 00:02:06,922
+We have an aging population
+in need of help,
+
+39
+00:02:06,923 --> 00:02:09,725
+and we have a large labor shortage
+
+40
+00:02:09,726 --> 00:02:12,695
+across most of the global economy.
+
+41
+00:02:12,696 --> 00:02:14,497
+And there's much, much more.
+
+42
+00:02:14,498 --> 00:02:20,603
+But even more importantly,
+to me, these robots,
+
+43
+00:02:20,604 --> 00:02:22,104
+they promise something greater
+
+44
+00:02:22,105 --> 00:02:25,341
+than just the ability
+to solve the problems of today.
+
+45
+00:02:25,342 --> 00:02:28,210
+They can solve things
+that we cannot do today.
+
+46
+00:02:28,211 --> 00:02:31,747
+They can give us back things like time.
+
+47
+00:02:31,748 --> 00:02:38,354
+And as these systems and AIs
+now become both physical and agentic,
+
+48
+00:02:38,355 --> 00:02:41,057
+we can start to work towards a future
+
+49
+00:02:41,058 --> 00:02:45,227
+where we actually have
+an abundance of labor.
+
+50
+00:02:45,228 --> 00:02:48,864
+We can start towards lifting humanity
+out of this constant battle
+
+51
+00:02:48,865 --> 00:02:51,233
+over scarcity of resources,
+
+52
+00:02:51,234 --> 00:02:54,437
+and create a world where
+everyone has what they need.
+
+53
+00:02:54,438 --> 00:02:56,472
+And I think that will, to some extent,
+
+54
+00:02:56,473 --> 00:03:02,144
+actually redefine
+what it means to be human.
+
+55
+00:03:02,145 --> 00:03:05,648
+But since I'd say, around year 1400,
+
+56
+00:03:05,649 --> 00:03:08,784
+when Leonardo da Vinci
+made "The Mechanical Man,"
+
+57
+00:03:08,785 --> 00:03:12,121
+that to me is kind of like the first
+example of a humanoid robot,
+
+58
+00:03:12,122 --> 00:03:18,961
+these things have been mainly a thing
+of science fiction, not reality.
+
+59
+00:03:18,962 --> 00:03:20,629
+But this is changing.
+
+60
+00:03:20,630 --> 00:03:23,065
+The robots, they're actually here.
+
+61
+00:03:23,066 --> 00:03:26,669
+And when I say here,
+I don't necessarily mean in videos.
+
+62
+00:03:26,670 --> 00:03:28,804
+They're actually here in our homes.
+
+63
+00:03:28,805 --> 00:03:31,440
+At least if you work at 1X, where I work,
+
+64
+00:03:31,441 --> 00:03:35,277
+where we now have them in quite
+a few homes throughout the company.
+
+65
+00:03:35,278 --> 00:03:37,880
+And already later this year,
+
+66
+00:03:37,881 --> 00:03:40,382
+I hope some of you guys
+will have it in your home
+
+67
+00:03:40,383 --> 00:03:43,452
+and join us on this journey.
+
+68
+00:03:43,453 --> 00:03:47,790
+So that means NEO is now part
+of my daily routine.
+
+69
+00:03:47,791 --> 00:03:50,659
+So it does some of the chores
+around the house.
+
+70
+00:03:50,660 --> 00:03:52,194
+Some of this is autonomous.
+
+71
+00:03:52,195 --> 00:03:54,430
+Some of this is done
+through remote operation
+
+72
+00:03:54,431 --> 00:03:55,965
+as it's learning.
+
+73
+00:03:55,966 --> 00:03:57,433
+And I talk to it.
+
+74
+00:03:57,434 --> 00:04:00,202
+I treat it kind of like a butler,
+like a companion.
+
+75
+00:04:00,203 --> 00:04:02,037
+It's part of the family.
+
+76
+00:04:02,038 --> 00:04:04,673
+And I think it's actually
+incredibly interesting
+
+77
+00:04:04,674 --> 00:04:07,676
+to also see how this social
+dynamic develops,
+
+78
+00:04:07,677 --> 00:04:10,212
+because this is, of course,
+incredibly useful and fun
+
+79
+00:04:10,213 --> 00:04:12,815
+to have it do stuff
+I don't want to do around my home.
+
+80
+00:04:12,816 --> 00:04:15,417
+But it's also really fun
+to see the beginning of like,
+
+81
+00:04:15,418 --> 00:04:19,822
+what will this relationship be
+between man and machine
+
+82
+00:04:19,823 --> 00:04:23,159
+as these AIs become physical.
+
+83
+00:04:23,160 --> 00:04:28,197
+Now like I said,
+the hardware is actually here.
+
+84
+00:04:28,198 --> 00:04:32,168
+It took us about a decade
+of very hard work,
+
+85
+00:04:32,169 --> 00:04:34,837
+but also many people that came before us,
+
+86
+00:04:34,838 --> 00:04:37,606
+a lot of time to do
+the foundational research
+
+87
+00:04:37,607 --> 00:04:40,943
+for us to now finally
+be able to build a machine
+
+88
+00:04:40,944 --> 00:04:44,880
+that can do almost anything
+that a human can do.
+
+89
+00:04:44,881 --> 00:04:47,416
+But it begs the big question, of course:
+
+90
+00:04:47,417 --> 00:04:50,119
+When will they be fully autonomous?
+
+91
+00:04:50,120 --> 00:04:54,456
+When will they actually
+become truly intelligent?
+
+92
+00:04:54,457 --> 00:04:59,528
+And what is the path
+that will actually take us there?
+
+93
+00:04:59,529 --> 00:05:05,134
+And I think this will be very
+obvious in [retrospect].
+
+94
+00:05:05,135 --> 00:05:07,002
+They need to live and learn among us.
+
+95
+00:05:07,003 --> 00:05:10,339
+We actually need to take these machines,
+and we need to adopt them.
+
+96
+00:05:10,340 --> 00:05:15,711
+We need to put them into our society
+and let them learn just as we do.
+
+97
+00:05:15,712 --> 00:05:18,147
+So the general convention has been,
+
+98
+00:05:18,148 --> 00:05:20,616
+or general wisdom, that robots,
+
+99
+00:05:20,617 --> 00:05:23,018
+they're going to first
+happen in factories.
+
+100
+00:05:23,019 --> 00:05:25,387
+So we're going to put
+these robots into factories,
+
+101
+00:05:25,388 --> 00:05:29,692
+they're going to do the dull, repetitive,
+dangerous tasks that they're good at.
+
+102
+00:05:29,693 --> 00:05:34,029
+And as they do these repetitive tasks,
+they get better and better, right?
+
+103
+00:05:34,030 --> 00:05:35,631
+They get more intelligent.
+
+104
+00:05:35,632 --> 00:05:39,201
+And after some time,
+we can put them into our home.
+
+105
+00:05:39,202 --> 00:05:40,970
+They will be able to do our laundry,
+
+106
+00:05:40,971 --> 00:05:43,272
+they will build our skyscrapers.
+
+107
+00:05:43,273 --> 00:05:47,543
+But this is actually categorically wrong.
+
+108
+00:05:47,544 --> 00:05:50,613
+And we know because
+we actually tried that.
+
+109
+00:05:50,614 --> 00:05:53,349
+So back in 2022,
+
+110
+00:05:53,350 --> 00:05:56,986
+we took our previous generation
+wheeled humanoid, Eve,
+
+111
+00:05:56,987 --> 00:05:59,922
+and we put it in industry.
+
+112
+00:05:59,923 --> 00:06:01,824
+And it actually went really well.
+
+113
+00:06:01,825 --> 00:06:05,694
+We solved a lot of kind
+of narrow, specific tasks,
+
+114
+00:06:05,695 --> 00:06:08,197
+and it got really good
+at them really fast.
+
+115
+00:06:08,198 --> 00:06:11,934
+And then after about 20 to 50 hours,
+
+116
+00:06:11,935 --> 00:06:15,371
+the robots, they just stopped learning.
+
+117
+00:06:15,372 --> 00:06:18,807
+And if you think about it,
+it's not really rocket science.
+
+118
+00:06:18,808 --> 00:06:22,278
+Because if you’re doing the same
+task over and over every day,
+
+119
+00:06:22,279 --> 00:06:24,046
+and it's the only thing you're doing,
+
+120
+00:06:24,047 --> 00:06:26,048
+you're not going to get very intelligent.
+
+121
+00:06:26,049 --> 00:06:27,516
+There's no information there.
+
+122
+00:06:27,517 --> 00:06:30,753
+And also you're going to generally become
+very narrow-minded, right?
+
+123
+00:06:30,754 --> 00:06:33,122
+We don't like being narrow-minded.
+
+124
+00:06:33,123 --> 00:06:35,557
+And if you think about like,
+what is a factory?
+
+125
+00:06:35,558 --> 00:06:42,197
+It is essentially a process that we design
+to reduce diversity and variance.
+
+126
+00:06:42,198 --> 00:06:46,535
+You want your factory worker
+to need as little information as possible
+
+127
+00:06:46,536 --> 00:06:47,970
+to be able to do the job
+
+128
+00:06:47,971 --> 00:06:52,241
+and get a high-quality,
+repeatable product out.
+
+129
+00:06:52,242 --> 00:06:56,378
+And this is kind of the opposite
+of what you need for intelligence.
+
+130
+00:06:56,379 --> 00:06:58,013
+You need diversity,
+
+131
+00:06:58,014 --> 00:06:59,815
+you need to challenge yourself.
+
+132
+00:06:59,816 --> 00:07:03,552
+You need to do new tasks every day
+that you don't know how to do.
+
+133
+00:07:03,553 --> 00:07:05,988
+And there's a great parallel here
+
+134
+00:07:05,989 --> 00:07:09,491
+to the early days
+of large language models.
+
+135
+00:07:09,492 --> 00:07:12,394
+So when we use these models today,
+
+136
+00:07:12,395 --> 00:07:15,130
+and they're getting really good,
+
+137
+00:07:15,131 --> 00:07:17,933
+we kind of forget where they started.
+
+138
+00:07:17,934 --> 00:07:22,171
+They started with a lot of people
+trying to make very narrow models.
+
+139
+00:07:22,172 --> 00:07:23,605
+So if I take an example,
+
+140
+00:07:23,606 --> 00:07:28,944
+if you wanted to make a very good
+writing assistant to write poetry,
+
+141
+00:07:28,945 --> 00:07:32,348
+then you would, of course train
+on all of the best poetry in the world.
+
+142
+00:07:32,349 --> 00:07:33,549
+Make sense.
+
+143
+00:07:33,550 --> 00:07:35,150
+And then it wouldn't really work.
+
+144
+00:07:35,151 --> 00:07:40,656
+And when we started training these models
+on all of the internet, right,
+
+145
+00:07:40,657 --> 00:07:45,527
+the complete diversity
+of all human knowledge,
+
+146
+00:07:45,528 --> 00:07:46,729
+they started working.
+
+147
+00:07:46,730 --> 00:07:48,197
+They became kind of smart.
+
+148
+00:07:48,198 --> 00:07:51,367
+They started being able to,
+to a certain extent, to reason.
+
+149
+00:07:51,368 --> 00:07:55,170
+And I'd say like,
+understand to a certain extent,
+
+150
+00:07:55,171 --> 00:07:58,841
+what is the question you’re asking
+and how should I answer.
+
+151
+00:07:58,842 --> 00:08:01,977
+And this is also how we humans learn.
+
+152
+00:08:01,978 --> 00:08:04,747
+We need a large amount of diversity
+
+153
+00:08:04,748 --> 00:08:07,783
+for us to be able to develop
+into intelligent beings.
+
+154
+00:08:07,784 --> 00:08:10,886
+So why should it be different for robots?
+
+155
+00:08:10,887 --> 00:08:13,188
+And it really begs the question then:
+
+156
+00:08:13,189 --> 00:08:16,525
+What is the equivalent of the internet?
+
+157
+00:08:16,526 --> 00:08:20,629
+How do we find this kind of like
+internet-level diversity of information
+
+158
+00:08:20,630 --> 00:08:22,498
+for our robots?
+
+159
+00:08:22,499 --> 00:08:28,003
+Well we come to the conclusion
+that this is probably the home.
+
+160
+00:08:28,004 --> 00:08:31,940
+Now the home is this
+beautiful, chaotic thing.
+
+161
+00:08:31,941 --> 00:08:37,546
+It's kind of like the messiness
+that is being human.
+
+162
+00:08:37,547 --> 00:08:39,548
+And I want to take a small example here.
+
+163
+00:08:39,549 --> 00:08:41,950
+So think about a cup.
+
+164
+00:08:41,951 --> 00:08:44,153
+Now of course, there's
+many cups in the world,
+
+165
+00:08:44,154 --> 00:08:46,955
+and you want to be able to figure out
+how all of them work.
+
+166
+00:08:46,956 --> 00:08:49,858
+But even if you look at one specific cup,
+
+167
+00:08:49,859 --> 00:08:51,860
+it can be so many things.
+
+168
+00:08:51,861 --> 00:08:53,695
+Is it dirty? Is it clean?
+
+169
+00:08:53,696 --> 00:08:55,364
+It's kind of in the middle?
+
+170
+00:08:55,365 --> 00:08:56,732
+Is it on the table,
+
+171
+00:08:56,733 --> 00:08:59,101
+in the cabinet, on the floor?
+
+172
+00:08:59,102 --> 00:09:00,969
+It can even have a social context.
+
+173
+00:09:00,970 --> 00:09:02,337
+Someone's using the cup.
+
+174
+00:09:02,338 --> 00:09:03,806
+Someone's waiting for the cup.
+
+175
+00:09:03,807 --> 00:09:05,741
+Like, why is the cup even there?
+
+176
+00:09:05,742 --> 00:09:07,342
+And this is just a cup.
+
+177
+00:09:07,343 --> 00:09:09,812
+Now think about expanding this
+out into everything
+
+178
+00:09:09,813 --> 00:09:12,781
+and every object and everything
+going on in your home.
+
+179
+00:09:12,782 --> 00:09:15,317
+That's the kind of diversity
+that we're talking about
+
+180
+00:09:15,318 --> 00:09:18,687
+to get to proper machine intelligence.
+
+181
+00:09:18,688 --> 00:09:22,391
+So like any good scientist, right,
+
+182
+00:09:22,392 --> 00:09:27,129
+we had this hypothesis,
+and now we have to test it.
+
+183
+00:09:27,130 --> 00:09:31,533
+So in 2023, we brought our robots home.
+
+184
+00:09:31,534 --> 00:09:34,169
+And I had Eve in my house
+for quite a while.
+
+185
+00:09:34,170 --> 00:09:36,738
+And it was, of course,
+doing the standard things
+
+186
+00:09:36,739 --> 00:09:38,640
+like emptying the dishwasher,
+
+187
+00:09:38,641 --> 00:09:40,476
+but also bringing me a cup of tea
+
+188
+00:09:40,477 --> 00:09:43,212
+when I was enjoying playing
+board games with my friends
+
+189
+00:09:43,213 --> 00:09:46,748
+or serving cupcakes
+at my daughter's birthday party.
+
+190
+00:09:46,749 --> 00:09:49,918
+And pretty quickly,
+
+191
+00:09:49,919 --> 00:09:55,357
+it actually became quite clear
+that this hypothesis
+
+192
+00:09:55,358 --> 00:09:57,559
+actually was the ground truth.
+
+193
+00:09:57,560 --> 00:09:59,661
+The home is this incredible,
+
+194
+00:09:59,662 --> 00:10:01,263
+diverse source of data
+
+195
+00:10:01,264 --> 00:10:05,000
+that lets us continue
+to progress intelligence.
+
+196
+00:10:05,001 --> 00:10:09,571
+So we thought originally
+that it was going to be this,
+
+197
+00:10:09,572 --> 00:10:12,007
+but actually it was this.
+
+198
+00:10:12,008 --> 00:10:22,618
+And let me show you guys now
+how this actually works in practice.
+
+199
+00:10:22,619 --> 00:10:27,556
+Oh thank you NEO,
+you’re doing a good job.
+
+200
+00:10:27,557 --> 00:10:28,757
+It's a bit noisy,
+
+201
+00:10:28,758 --> 00:10:31,093
+but hopefully you can still hear me.
+
+202
+00:10:31,094 --> 00:10:32,995
+What you see here now,
+
+203
+00:10:32,996 --> 00:10:35,631
+of course, is just a subset
+of tasks that NEO can do.
+
+204
+00:10:35,632 --> 00:10:38,734
+And this is a mix of autonomy,
+
+205
+00:10:38,735 --> 00:10:40,903
+for things the robot is good at,
+
+206
+00:10:40,904 --> 00:10:43,272
+and some remote operation
+
+207
+00:10:43,273 --> 00:10:45,007
+where someone's guiding the robot
+
+208
+00:10:45,008 --> 00:10:49,878
+to basically do expert demonstrations
+on how to do these tasks.
+
+209
+00:10:49,879 --> 00:10:54,016
+And as we have an increasing
+number of these robots
+
+210
+00:10:54,017 --> 00:10:56,218
+throughout homes,
+
+211
+00:10:56,219 --> 00:10:58,287
+living among us and learning,
+
+212
+00:10:58,288 --> 00:11:01,256
+more and more of this becomes autonomous
+
+213
+00:11:01,257 --> 00:11:02,457
+until hopefully,
+
+214
+00:11:02,458 --> 00:11:07,396
+one day, all of this
+will be fully autonomous.
+
+215
+00:11:07,397 --> 00:11:12,568
+And if you kind of
+follow along in the field,
+
+216
+00:11:12,569 --> 00:11:15,370
+a natural question to ask
+at this point would be:
+
+217
+00:11:15,371 --> 00:11:17,940
+Why doesn’t everyone do this?
+
+218
+00:11:17,941 --> 00:11:19,808
+If it's so obvious.
+
+219
+00:11:19,809 --> 00:11:24,346
+Well it actually turns out,
+it’s incredibly hard
+
+220
+00:11:24,347 --> 00:11:28,517
+to make a robot that is safe among people.
+
+221
+00:11:28,518 --> 00:11:35,624
+So robots are traditionally
+these quite stiff, high-energy --
+
+222
+00:11:35,625 --> 00:11:39,261
+you’re doing great, NEO,
+you’re doing great.
+
+223
+00:11:39,262 --> 00:11:41,129
+They're this --
+
+224
+00:11:41,130 --> 00:11:44,233
+careful, I don’t want to get watered --
+
+225
+00:11:44,234 --> 00:11:47,169
+stiff machines that are
+high-energy and dangerous.
+
+226
+00:11:47,170 --> 00:11:50,239
+And this is very different
+from how NEO works.
+
+227
+00:11:50,240 --> 00:11:53,008
+NEO actually has tendons
+that [get] pulled,
+
+228
+00:11:53,009 --> 00:11:55,644
+very loosely inspired by human muscle.
+
+229
+00:11:55,645 --> 00:11:59,281
+And this makes NEO
+into a robot that is quiet, soft,
+
+230
+00:11:59,282 --> 00:12:02,017
+compliant, lightweight, safe,
+
+231
+00:12:02,018 --> 00:12:08,757
+and really able to live
+among us and learn among us.
+
+232
+00:12:08,758 --> 00:12:10,792
+Let's see if he figures it out.
+
+233
+00:12:10,793 --> 00:12:12,094
+It's a hard one.
+
+234
+00:12:12,095 --> 00:12:17,065
+You can do it, NEO.
+
+235
+00:12:17,066 --> 00:12:22,004
+(Applause)
+
+236
+00:12:22,005 --> 00:12:32,481
+I said he's the best, right?
+
+237
+00:12:32,482 --> 00:12:33,849
+OK.
+
+238
+00:12:33,850 --> 00:12:38,687
+So this is still,
+of course, incredibly early.
+
+239
+00:12:38,688 --> 00:12:42,658
+We're all the way
+in the beginning of this journey.
+
+240
+00:12:42,659 --> 00:12:46,528
+But I do hope that, in not so long,
+
+241
+00:12:46,529 --> 00:12:48,764
+just like we take energy
+for granted around us,
+
+242
+00:12:48,765 --> 00:12:51,667
+we will be able to take
+labor around us for granted.
+
+243
+00:12:51,668 --> 00:12:54,870
+And we might soon
+not even remember the day
+
+244
+00:12:54,871 --> 00:12:57,739
+where there wasn't always like,
+a helping hand available
+
+245
+00:12:57,740 --> 00:13:00,342
+for anything we wanted to do.
+
+246
+00:13:00,343 --> 00:13:05,180
+But as these machines go
+around in our society and learn,
+
+247
+00:13:05,181 --> 00:13:08,083
+to me this journey is about a lot more
+
+248
+00:13:08,084 --> 00:13:12,354
+than just you not having
+to do your laundry.
+
+249
+00:13:12,355 --> 00:13:16,258
+It's about creating a future
+where we actually have time
+
+250
+00:13:16,259 --> 00:13:19,728
+to focus on what matters to us as humans,
+
+251
+00:13:19,729 --> 00:13:22,597
+and getting rid of these constraints.
+
+252
+00:13:22,598 --> 00:13:27,903
+But also, it's an opportunity
+to really have these machines
+
+253
+00:13:27,904 --> 00:13:32,574
+help us solve some of the outstanding
+questions that we still have.
+
+254
+00:13:32,575 --> 00:13:38,080
+Like, can we have robots build robots?
+
+255
+00:13:38,081 --> 00:13:43,852
+Can we have robots build
+data centers to progress AI?
+
+256
+00:13:43,853 --> 00:13:46,121
+Can we have robots that build chip fabs
+
+257
+00:13:46,122 --> 00:13:49,858
+to help us accelerate adoption of AI?
+
+258
+00:13:49,859 --> 00:13:53,495
+And I think it's getting pretty clear
+that we can have all of these things.
+
+259
+00:13:53,496 --> 00:13:56,832
+But it goes even further than that.
+
+260
+00:13:56,833 --> 00:14:00,502
+I hope we can get a future
+where we have humanoid robots like Neo
+
+261
+00:14:00,503 --> 00:14:03,105
+that is actually building
+particle accelerators,
+
+262
+00:14:03,106 --> 00:14:04,940
+that is building labs.
+
+263
+00:14:04,941 --> 00:14:09,044
+We will have millions of robots
+around in the world doing high-quality,
+
+264
+00:14:09,045 --> 00:14:11,279
+repetitive experiments in labs
+
+265
+00:14:11,280 --> 00:14:13,682
+and helping us progress science
+
+266
+00:14:13,683 --> 00:14:16,518
+at a pace that we have never seen before.
+
+267
+00:14:16,519 --> 00:14:18,587
+And I hope that in the future,
+
+268
+00:14:18,588 --> 00:14:22,791
+through this kind of like a symbiosis
+between man and machine,
+
+269
+00:14:22,792 --> 00:14:24,760
+we can start trying to answer
+
+270
+00:14:24,761 --> 00:14:28,397
+some of the remaining
+big unanswered questions
+
+271
+00:14:28,398 --> 00:14:31,466
+about the universe and our role here.
+
+272
+00:14:31,467 --> 00:14:32,934
+And I think if we can do that,
+
+273
+00:14:32,935 --> 00:14:37,105
+that will to some extent redefine
+what it means to be human.
+
+274
+00:14:37,106 --> 00:14:38,273
+Thank you.
+
+275
+00:14:38,274 --> 00:14:43,274
+(Applause)
+

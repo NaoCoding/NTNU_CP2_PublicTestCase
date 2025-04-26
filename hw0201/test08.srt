@@ -1,0 +1,712 @@
+1
+00:00:00,476 --> 00:00:02,795
+(Spanish) Este es una 
+historia de esperanza.
+
+2
+00:00:02,796 --> 00:00:05,275
+(English) This is a story about hope.
+
+3
+00:00:05,276 --> 00:00:07,355
+I grew up in Mexico City,
+
+4
+00:00:07,356 --> 00:00:08,795
+and as a little kid,
+
+5
+00:00:08,796 --> 00:00:11,435
+I had no clue about global
+climate change,
+
+6
+00:00:11,436 --> 00:00:15,275
+the problem I'm working on
+in Europe today.
+
+7
+00:00:15,276 --> 00:00:17,715
+But I did know air pollution.
+
+8
+00:00:17,716 --> 00:00:20,235
+The smog was so thick back then
+
+9
+00:00:20,236 --> 00:00:23,355
+that you could literally see
+the air you were breathing.
+
+10
+00:00:23,356 --> 00:00:28,315
+Today, Mexico City's air
+is dramatically cleaner.
+
+11
+00:00:28,316 --> 00:00:29,635
+What changed?
+
+12
+00:00:29,636 --> 00:00:33,515
+A combination of policy and data.
+
+13
+00:00:33,516 --> 00:00:37,435
+Mexico City started inspecting
+vehicles every six months,
+
+14
+00:00:37,436 --> 00:00:39,035
+using cleaner fuels
+
+15
+00:00:39,036 --> 00:00:41,875
+and improving energy efficiency.
+
+16
+00:00:41,876 --> 00:00:47,515
+Mexico City's air pollution problem
+dropped from number one in the world
+
+17
+00:00:47,516 --> 00:00:50,555
+to 999.
+
+18
+00:00:50,556 --> 00:00:55,555
+I realized firsthand how this combination
+of smart policy and data
+
+19
+00:00:55,556 --> 00:00:58,755
+significantly improved the air in my city.
+
+20
+00:00:58,756 --> 00:01:00,315
+And it was clear to me:
+
+21
+00:01:00,316 --> 00:01:05,715
+I wanted to make a career
+out of finding solutions to pollution.
+
+22
+00:01:05,716 --> 00:01:08,195
+I studied chemical engineering in Mexico
+
+23
+00:01:08,196 --> 00:01:11,795
+and went to Austin, Texas for my PhD.
+
+24
+00:01:11,796 --> 00:01:13,155
+And that's where I found out
+
+25
+00:01:13,156 --> 00:01:16,795
+about the huge climate problem
+caused by methane,
+
+26
+00:01:16,796 --> 00:01:20,875
+which also happens to be the main
+component of natural gas.
+
+27
+00:01:20,876 --> 00:01:22,435
+In the short term,
+
+28
+00:01:22,436 --> 00:01:27,675
+methane is more than 80 times
+more potent than CO2
+
+29
+00:01:27,676 --> 00:01:31,035
+[at] trapping heat in the atmosphere.
+
+30
+00:01:31,036 --> 00:01:36,435
+Let's compare this year's CO2 emissions
+from burning fossil fuels
+
+31
+00:01:36,436 --> 00:01:39,675
+to this year's methane emissions.
+
+32
+00:01:39,676 --> 00:01:43,675
+As you can see,
+there's way, way more CO2.
+
+33
+00:01:43,676 --> 00:01:45,435
+But this methane
+
+34
+00:01:45,436 --> 00:01:49,195
+will cause as much warming
+over the next 10 years
+
+35
+00:01:49,196 --> 00:01:52,635
+as all of that CO2.
+
+36
+00:01:52,636 --> 00:01:57,675
+My research team in Texas
+used these newer handheld devices
+
+37
+00:01:57,676 --> 00:02:01,715
+to detect and quantify methane emissions
+
+38
+00:02:01,716 --> 00:02:04,595
+from oil and gas facilities.
+
+39
+00:02:04,596 --> 00:02:06,475
+This is something very important.
+
+40
+00:02:06,476 --> 00:02:09,715
+Once you're able to know
+where the leaks are coming from,
+
+41
+00:02:09,716 --> 00:02:12,515
+the solutions are extremely simple.
+
+42
+00:02:12,516 --> 00:02:17,555
+And in most cases,
+they're not expensive at all.
+
+43
+00:02:17,556 --> 00:02:21,395
+I realized that methane pollution
+from the oil and gas industry
+
+44
+00:02:21,396 --> 00:02:24,515
+is so important, that five years ago,
+
+45
+00:02:24,516 --> 00:02:30,395
+I packed my things and moved
+my entire family from Texas to Europe
+
+46
+00:02:30,396 --> 00:02:32,955
+to do something about it.
+
+47
+00:02:32,956 --> 00:02:35,675
+But does that make any sense?
+
+48
+00:02:35,676 --> 00:02:36,875
+I moved from Texas,
+
+49
+00:02:36,876 --> 00:02:40,555
+which is one of the world's major
+oil and gas producing regions,
+
+50
+00:02:40,556 --> 00:02:41,755
+to Europe,
+
+51
+00:02:41,756 --> 00:02:46,555
+who is already pushing
+to phase out fossil fuels.
+
+52
+00:02:46,556 --> 00:02:50,595
+What was I thinking,
+and why was I needed in Europe?
+
+53
+00:02:50,596 --> 00:02:52,875
+Well let me explain.
+
+54
+00:02:52,876 --> 00:02:55,595
+The EU has set a very ambitious goal
+
+55
+00:02:55,596 --> 00:02:58,275
+to become climate neutral by 2050,
+
+56
+00:02:58,276 --> 00:03:00,995
+and this is part
+of the European Green Deal.
+
+57
+00:03:00,996 --> 00:03:04,995
+Climate neutral means more than reducing
+greenhouse gas emissions
+
+58
+00:03:04,996 --> 00:03:06,635
+within Europe's borders.
+
+59
+00:03:06,636 --> 00:03:09,675
+It also means not importing products
+
+60
+00:03:09,676 --> 00:03:13,315
+that are causing emissions elsewhere.
+
+61
+00:03:13,316 --> 00:03:14,795
+For example,
+
+62
+00:03:14,796 --> 00:03:19,515
+what if oil and gas companies
+were releasing huge amounts of methane
+
+63
+00:03:19,516 --> 00:03:25,035
+as they drill for the oil and gas
+that they want to send to Europe?
+
+64
+00:03:25,036 --> 00:03:29,995
+The good news is that the EU
+recently passed a landmark law
+
+65
+00:03:29,996 --> 00:03:32,795
+to avoid that from happening.
+
+66
+00:03:32,796 --> 00:03:35,035
+And this is how it works.
+
+67
+00:03:35,036 --> 00:03:38,835
+To gain access to the European
+oil and gas market,
+
+68
+00:03:38,836 --> 00:03:42,875
+which today remains one
+of the largest in the world,
+
+69
+00:03:42,876 --> 00:03:44,755
+companies all around the world
+
+70
+00:03:44,756 --> 00:03:47,795
+are going to have to cut
+their methane emissions,
+
+71
+00:03:47,796 --> 00:03:52,515
+just as European producers
+are also required to do.
+
+72
+00:03:52,516 --> 00:03:54,635
+The details are still being sorted out,
+
+73
+00:03:54,636 --> 00:04:00,475
+but this access to market is likely
+to be based on methane intensity.
+
+74
+00:04:00,476 --> 00:04:03,635
+That is the total amount
+of methane emissions
+
+75
+00:04:03,636 --> 00:04:06,235
+as a percentage of production.
+
+76
+00:04:06,236 --> 00:04:07,435
+For example,
+
+77
+00:04:07,436 --> 00:04:12,115
+companies could be held
+to a standard of as little as two-tenths
+
+78
+00:04:12,116 --> 00:04:15,715
+of one percent of their production.
+
+79
+00:04:15,716 --> 00:04:17,555
+As with all policies,
+
+80
+00:04:17,556 --> 00:04:20,675
+success depends on implementation,
+
+81
+00:04:20,676 --> 00:04:24,675
+and the EU methane policy
+still needs to be implemented
+
+82
+00:04:24,676 --> 00:04:27,915
+across the 27 member states.
+
+83
+00:04:27,916 --> 00:04:30,435
+Now here's something really important.
+
+84
+00:04:30,436 --> 00:04:31,715
+How are we going to know
+
+85
+00:04:31,716 --> 00:04:34,875
+that oil and gas companies
+all around the world
+
+86
+00:04:34,876 --> 00:04:37,555
+are actually complying with this?
+
+87
+00:04:37,556 --> 00:04:41,115
+How are we going to be able to check
+that emissions are really going down,
+
+88
+00:04:41,116 --> 00:04:44,435
+which of course, at the end of the day,
+is what we need to see?
+
+89
+00:04:44,436 --> 00:04:48,515
+It sounds unrealistic
+that we could walk around the world
+
+90
+00:04:48,516 --> 00:04:52,755
+with those handheld devices,
+like the ones my team was using in Texas.
+
+91
+00:04:52,756 --> 00:04:53,995
+But the good news
+
+92
+00:04:53,996 --> 00:04:58,675
+is that methane monitoring tools
+have significantly evolved,
+
+93
+00:04:58,676 --> 00:05:01,755
+and scientists have
+developed newer sensors
+
+94
+00:05:01,756 --> 00:05:04,675
+that work from larger distances.
+
+95
+00:05:04,676 --> 00:05:06,475
+First from airplanes,
+
+96
+00:05:06,476 --> 00:05:10,475
+and most recently from space.
+
+97
+00:05:10,476 --> 00:05:15,515
+MethaneSAT and other satellites
+are already scanning the globe,
+
+98
+00:05:15,516 --> 00:05:17,675
+looking at all those different places
+
+99
+00:05:17,676 --> 00:05:20,875
+where oil and gas production
+is taking place.
+
+100
+00:05:20,876 --> 00:05:27,395
+They're already delivering
+accurate methane data in near-real time,
+
+101
+00:05:27,396 --> 00:05:34,275
+which is at the heart of making
+the new EU methane strategy work.
+
+102
+00:05:34,276 --> 00:05:36,915
+It also explains why
+the EU helped establish
+
+103
+00:05:36,916 --> 00:05:40,355
+the International Methane
+Emissions Observatory,
+
+104
+00:05:40,356 --> 00:05:42,595
+where I do some of my work.
+
+105
+00:05:42,596 --> 00:05:45,635
+This observatory is not a telescope.
+
+106
+00:05:45,636 --> 00:05:48,155
+It's a global data hub
+
+107
+00:05:48,156 --> 00:05:51,115
+hosted by the UN Environment Programme,
+
+108
+00:05:51,116 --> 00:05:54,955
+and it's already bringing together
+data from different satellites
+
+109
+00:05:54,956 --> 00:05:57,075
+and monitoring tools.
+
+110
+00:05:57,076 --> 00:06:01,195
+It will soon allow us to measure, monitor,
+
+111
+00:06:01,196 --> 00:06:04,275
+report and verify methane emissions
+
+112
+00:06:04,276 --> 00:06:09,875
+from different oil and gas producers
+in a consistent way.
+
+113
+00:06:09,876 --> 00:06:11,955
+The world is watching
+
+114
+00:06:11,956 --> 00:06:16,635
+as this unprecedented
+public access to data
+
+115
+00:06:16,636 --> 00:06:23,475
+promises to hold oil and gas producers
+accountable for their emissions.
+
+116
+00:06:23,476 --> 00:06:28,595
+Data will make a difference,
+just as it did in Mexico City.
+
+117
+00:06:28,596 --> 00:06:31,355
+And we’ve got momentum.
+
+118
+00:06:31,356 --> 00:06:33,595
+More than 50 companies,
+
+119
+00:06:33,596 --> 00:06:37,355
+representing 40 percent of global
+oil and gas production,
+
+120
+00:06:37,356 --> 00:06:41,275
+have already committed
+to reduce their own methane emissions
+
+121
+00:06:41,276 --> 00:06:46,675
+by almost 90 percent
+by the end of this decade.
+
+122
+00:06:46,676 --> 00:06:49,795
+And more than 150 countries
+
+123
+00:06:49,796 --> 00:06:52,875
+have already signed
+the Global Methane Pledge,
+
+124
+00:06:52,876 --> 00:06:57,195
+committing to serious methane action.
+
+125
+00:06:57,196 --> 00:07:04,035
+Of course, all of this commitment
+and pledges need to become real.
+
+126
+00:07:04,036 --> 00:07:06,595
+And Europe is just the beginning.
+
+127
+00:07:06,596 --> 00:07:10,315
+Already, Japan and South Korea
+have formed a coalition
+
+128
+00:07:10,316 --> 00:07:12,595
+and are also looking at methane emissions
+
+129
+00:07:12,596 --> 00:07:18,875
+as a condition to access their own
+oil and gas import market.
+
+130
+00:07:18,876 --> 00:07:20,075
+In a sense,
+
+131
+00:07:20,076 --> 00:07:24,195
+the EU methane policy
+can serve as a blueprint
+
+132
+00:07:24,196 --> 00:07:28,595
+as other countries and regions implement
+
+133
+00:07:28,596 --> 00:07:32,915
+data-driven climate action.
+
+134
+00:07:32,916 --> 00:07:34,955
+Even beyond methane.
+
+135
+00:07:34,956 --> 00:07:36,115
+For example,
+
+136
+00:07:36,116 --> 00:07:39,475
+we could look at the emission
+footprint from other products
+
+137
+00:07:39,476 --> 00:07:43,875
+such as cement, steel or wood.
+
+138
+00:07:43,876 --> 00:07:47,395
+Or we could look at other sources
+of methane beyond oil and gas,
+
+139
+00:07:47,396 --> 00:07:52,395
+such as agriculture and landfills.
+
+140
+00:07:52,396 --> 00:07:54,555
+My day-to-day work as a scientist
+
+141
+00:07:54,556 --> 00:08:00,795
+revolves around data,
+technology and policy.
+
+142
+00:08:00,796 --> 00:08:04,115
+But I'm also a father of two little kids,
+
+143
+00:08:04,116 --> 00:08:09,875
+which makes my hope for the future
+deeply, deeply personal.
+
+144
+00:08:09,876 --> 00:08:14,075
+Picking up the pace
+at which we phase out fossil fuels
+
+145
+00:08:14,076 --> 00:08:16,155
+will dramatically shape
+
+146
+00:08:16,156 --> 00:08:19,115
+and change the world
+our kids will inherit,
+
+147
+00:08:19,116 --> 00:08:21,675
+and we need to do this fast.
+
+148
+00:08:21,676 --> 00:08:23,675
+But in the meantime,
+
+149
+00:08:23,676 --> 00:08:28,715
+cutting methane emissions
+is by far the fastest way
+
+150
+00:08:28,716 --> 00:08:31,675
+to slow warming today,
+
+151
+00:08:31,676 --> 00:08:35,035
+having an immediate impact for the people,
+
+152
+00:08:35,036 --> 00:08:39,195
+just as Mexico City did
+with air pollution,
+
+153
+00:08:39,196 --> 00:08:41,355
+by using data and policy,
+
+154
+00:08:41,356 --> 00:08:44,035
+when I was a little kid.
+
+155
+00:08:44,036 --> 00:08:46,315
+(Spanish) Y es por eso 
+que tengo esperanza.
+
+156
+00:08:46,316 --> 00:08:48,755
+(English) This is why I’m hopeful,
+
+157
+00:08:48,756 --> 00:08:53,795
+because we're using data not only
+to understand the methane problem,
+
+158
+00:08:53,796 --> 00:08:56,955
+but to actually fix it.
+
+159
+00:08:56,956 --> 00:08:58,115
+Thank you.
+
+160
+00:08:58,116 --> 00:09:03,116
+(Applause)
+
