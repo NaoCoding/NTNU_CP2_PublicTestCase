@@ -1,0 +1,20 @@
+./hw0303 --help --output=output_error00.bmp
+./hw0303 -r 999 --output=output01.bmp
+./hw0303 -r 999 --start-color FFFFFF --output=output02.bmp
+./hw0303 -r 999 --start-color FF0000 --end-color 00FF00 --output=output03.bmp
+./hw0303 -r HELLOWORLD --output=output_error03.bmp
+./hw0303 -r 999 --start-color 000000 --end-color 000000 --output=output04.bmp
+./hw0303 -r 999 -n 10 --output=output05.bmp
+./hw0303 -r 999 -n 1 --start-color 000000 --end-color 0000FF --output=output06.bmp
+./hw0303 -r 999 -n 2 --start-color FF0000 --end-color 0000FF --output=output07.bmp
+./hw0303 -r 999 --background-color HELLOWORLD --help --output=output_error05.bmp
+./hw0303 -r 999 -n 1 --start-color 000000 --end-color 0000FF --background-color FF0000 --output=output08.bmp
+./hw0303 -r 999 -o output09.bmp
+./hw0303 -r 999 -o output10.bmp --start-color=FF0000
+./hw0303 -r 999 -o output11.bmp --end-color=FF0000
+./hw0303 -r 999 -o output12.bmp --background-color=FF0000
+./hw0303 -r -1 --output=output_error01.bmp
+./hw0303 -r 999 -n -1 --output=output_error04.bmp
+./hw0303 -r 999 -n -1 --output=output_error06.bmp --help
+./hw0303 -r 999 -n -2417483649 --output=output_error07.bmp
+./hw0303 -r -2147483649 --output=output_error02.bmp
