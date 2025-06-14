@@ -1,0 +1,12 @@
+./hw0402 --help --output=output_error01.bmp
+./hw0402 --max-price=3333333 --output=output01.bmp
+./hw0402 --min-price=3333333 --output=output02.bmp
+./hw0402 --end-time=2025-06-11 --output=output03.bmp
+./hw0402 --start-time=2025-06-05 --output=output04.bmp
+./hw0402 --width=1000 --height=500 --output=output05.bmp
+./hw0402 --start-time=2025-06-05 --end-time=2025-06-11 --max-price=3333333 --output=output06.bmp
+./hw0402 --start-time=2025-06-05 --end-time=2025-06-11 --min-price=3333333 --output=output07.bmp
+./hw0402 --min-price=3333334 --max-price=−4291634963 --output=output_error04.bmp  
+./hw0402 --min-price=−4291634963 --max-price=3333332 --output=output_error05.bmp
+./hw0402 --width=-2147482648 --height=300 --output=output_error02.bmp
+./hw0402 --width=300 --height=-2147482648 --output=output_error03.bmp
