@@ -1,0 +1,157 @@
+Dependencies:
+ 1. libc6 (>= 2.34)
+ 2. libtinfo6 (>= 6)
+Files:
++---- etc
+|   +---- joe
+|       +---- ftyperc
+|       +---- jicerc.ru
+|       +---- jmacsrc
+|       +---- joerc
+|       +---- joerc.zh_TW
+|       +---- jpicorc
+|       +---- jstarrc
+|       +---- rjoerc
+|       +---- shell.csh
+|       +---- shell.sh
++---- usr
+    +---- bin
+    |   +---- jmacs -> joe
+    |   +---- joe
+    |   +---- jpico -> joe
+    |   +---- jstar -> joe
+    |   +---- rjoe -> joe
+    +---- share
+        +---- applications
+        |   +---- jmacs.desktop
+        |   +---- joe.desktop
+        |   +---- jpico.desktop
+        |   +---- jstar.desktop
+        +---- doc
+        |   +---- joe
+        |       +---- NEWS.md.gz
+        |       +---- README.Debian
+        |       +---- README.md.gz
+        |       +---- README.old.gz
+        |       +---- changelog.Debian.gz
+        |       +---- changelog.gz
+        |       +---- copyright
+        |       +---- hacking.md.gz
+        |       +---- help.pl.txt
+        |       +---- man.md.gz
+        +---- joe
+        |   +---- charmaps
+        |   |   +---- klingon
+        |   +---- colors
+        |   |   +---- default.jcf
+        |   |   +---- gruvbox.jcf
+        |   |   +---- ir_black.jcf
+        |   |   +---- molokai.jcf
+        |   |   +---- solarized.jcf
+        |   |   +---- wombat.jcf
+        |   |   +---- xoria.jcf
+        |   |   +---- zenburn-hc.jcf
+        |   |   +---- zenburn.jcf
+        |   +---- lang
+        |   |   +---- de.po
+        |   |   +---- fr.po
+        |   |   +---- ru.po
+        |   |   +---- uk.po
+        |   |   +---- zh_TW.po
+        |   +---- syntax
+        |       +---- 4gl.jsf
+        |       +---- ada.jsf
+        |       +---- ant.jsf
+        |       +---- asm.jsf
+        |       +---- avr.jsf
+        |       +---- awk.jsf
+        |       +---- batch.jsf
+        |       +---- c.jsf
+        |       +---- clojure.jsf
+        |       +---- cobol.jsf
+        |       +---- coffee.jsf
+        |       +---- comment_todo.jsf
+        |       +---- conf.jsf
+        |       +---- context.jsf
+        |       +---- csh.jsf
+        |       +---- csharp.jsf
+        |       +---- css.jsf
+        |       +---- d.jsf
+        |       +---- debcontrol.jsf
+        |       +---- debian.jsf
+        |       +---- debian_changelog.jsf
+        |       +---- diff.jsf
+        |       +---- dockerfile.jsf
+        |       +---- elixir.jsf
+        |       +---- erb.jsf
+        |       +---- erlang.jsf
+        |       +---- filename.jsf
+        |       +---- fortran.jsf
+        |       +---- git-commit.jsf
+        |       +---- go.jsf
+        |       +---- groovy.jsf
+        |       +---- haml.jsf
+        |       +---- haskell.jsf
+        |       +---- html.jsf
+        |       +---- htmlerb.jsf
+        |       +---- ini.jsf
+        |       +---- iptables.jsf
+        |       +---- java.jsf
+        |       +---- jcf.jsf
+        |       +---- joerc.jsf
+        |       +---- js.jsf
+        |       +---- jsf.jsf
+        |       +---- jsf_check.jsf
+        |       +---- json.jsf
+        |       +---- lisp.jsf
+        |       +---- lua.jsf
+        |       +---- m4.jsf
+        |       +---- mail.jsf
+        |       +---- mason.jsf
+        |       +---- matlab.jsf
+        |       +---- md.jsf
+        |       +---- ocaml.jsf
+        |       +---- pascal.jsf
+        |       +---- perl.jsf
+        |       +---- php.jsf
+        |       +---- powershell.jsf
+        |       +---- prolog.jsf
+        |       +---- properties.jsf
+        |       +---- ps.jsf
+        |       +---- puppet.jsf
+        |       +---- python.jsf
+        |       +---- r.jsf
+        |       +---- rexx.jsf
+        |       +---- ruby.jsf
+        |       +---- rust.jsf
+        |       +---- scala.jsf
+        |       +---- sed.jsf
+        |       +---- sh.jsf
+        |       +---- sieve.jsf
+        |       +---- skill.jsf
+        |       +---- sml.jsf
+        |       +---- spec.jsf
+        |       +---- sql.jsf
+        |       +---- swift.jsf
+        |       +---- tcl.jsf
+        |       +---- tex.jsf
+        |       +---- troff.jsf
+        |       +---- typescript.jsf
+        |       +---- verilog.jsf
+        |       +---- vhdl.jsf
+        |       +---- whitespace.jsf
+        |       +---- xml.jsf
+        |       +---- yaml.jsf
+        +---- lintian
+        |   +---- overrides
+        |       +---- joe
+        +---- man
+            +---- man1
+            |   +---- jmacs.1.gz -> joe.1.gz
+            |   +---- joe.1.gz
+            |   +---- jpico.1.gz -> joe.1.gz
+            |   +---- jstar.1.gz -> joe.1.gz
+            |   +---- rjoe.1.gz -> joe.1.gz
+            +---- ru
+                +---- man1
+                    +---- joe.1.gz

@@ -1,0 +1,253 @@
+Dependencies:
+ 1. libaudit1 (>= 1:2.2.1)
+ 2. libc6 (>= 2.34)
+ 3. libpam0g (>= 0.99.7.1)
+ 4. libselinux1 (>= 3.1~)
+ 5. zlib1g (>= 1:1.2.0.2)
+ 6. libpam-modules
+Files:
++---- etc
+|   +---- init.d
+|   |   +---- sudo
+|   +---- pam.d
+|   |   +---- sudo
+|   |   +---- sudo-i
+|   +---- sudo.conf
+|   +---- sudo_logsrvd.conf
+|   +---- sudoers
+|   +---- sudoers.d
+|       +---- README
++---- lib
+|   +---- systemd
+|       +---- system
+|           +---- sudo.service -> /dev/null
++---- usr
+|   +---- bin
+|   |   +---- cvtsudoers
+|   |   +---- sudo
+|   |   +---- sudoedit -> sudo
+|   |   +---- sudoreplay
+|   +---- include
+|   |   +---- sudo_plugin.h
+|   +---- lib
+|   |   +---- tmpfiles.d
+|   |       +---- sudo.conf
+|   +---- libexec
+|   |   +---- sudo
+|   |       +---- audit_json.so
+|   |       +---- group_file.so
+|   |       +---- libsudo_util.so -> libsudo_util.so.0.0.0
+|   |       +---- libsudo_util.so.0 -> libsudo_util.so.0.0.0
+|   |       +---- libsudo_util.so.0.0.0
+|   |       +---- sesh
+|   |       +---- sudo_intercept.so
+|   |       +---- sudo_noexec.so
+|   |       +---- sudoers.so
+|   |       +---- system_group.so
+|   +---- sbin
+|   |   +---- sudo_logsrvd
+|   |   +---- sudo_sendlog
+|   |   +---- visudo
+|   +---- share
+|       +---- apport
+|       |   +---- package-hooks
+|       |       +---- source_sudo.py
+|       +---- doc
+|       |   +---- sudo
+|       |       +---- CONTRIBUTING.md
+|       |       +---- CONTRIBUTORS.md.gz
+|       |       +---- HISTORY.md
+|       |       +---- NEWS.Debian.gz
+|       |       +---- NEWS.gz
+|       |       +---- OPTIONS
+|       |       +---- README.Debian
+|       |       +---- README.md
+|       |       +---- SECURITY.md
+|       |       +---- TROUBLESHOOTING.md.gz
+|       |       +---- UPGRADE.md.gz
+|       |       +---- changelog.Debian.gz
+|       |       +---- changelog.gz
+|       |       +---- copyright
+|       |       +---- examples
+|       |           +---- cvtsudoers.conf
+|       |           +---- pam.conf
+|       |           +---- sudo.conf
+|       |           +---- sudo_logsrvd.conf
+|       |           +---- sudoers
+|       |           +---- sudoers.dist
+|       |           +---- syslog.conf
+|       +---- lintian
+|       |   +---- overrides
+|       |       +---- sudo
+|       +---- locale
+|       |   +---- ast
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- ca
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- cs
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- da
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- de
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- el
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudoers.mo
+|       |   +---- eo
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- es
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- eu
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- fa
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   +---- fi
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- fr
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- fur
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- gl
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   +---- hr
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- hu
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- it
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- ja
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- ka
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- ko
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- lt
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudoers.mo
+|       |   +---- nb
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- nl
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- nn
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   +---- pl
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- pt
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- pt_BR
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- ro
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- ru
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- sk
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- sl
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- sq
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   +---- sr
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- sv
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- tr
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- uk
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- vi
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- zh_CN
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- sudo.mo
+|       |   |       +---- sudoers.mo
+|       |   +---- zh_TW
+|       |       +---- LC_MESSAGES
+|       |           +---- sudo.mo
+|       |           +---- sudoers.mo
+|       +---- man
+|           +---- man1
+|           |   +---- cvtsudoers.1.gz
+|           +---- man5
+|           |   +---- sudo.conf.5.gz
+|           |   +---- sudo_logsrv.proto.5.gz
+|           |   +---- sudo_logsrvd.conf.5.gz
+|           |   +---- sudo_plugin.5.gz
+|           |   +---- sudoers.5.gz
+|           |   +---- sudoers_timestamp.5.gz
+|           +---- man8
+|               +---- sudo.8.gz
+|               +---- sudo_logsrvd.8.gz
+|               +---- sudo_sendlog.8.gz
+|               +---- sudoedit.8.gz -> sudo.8.gz
+|               +---- sudoreplay.8.gz
+|               +---- visudo.8.gz
++---- var
+    +---- lib
+        +---- sudo
+            +---- lectured

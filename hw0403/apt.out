@@ -1,0 +1,386 @@
+Dependencies:
+ 1. adduser
+ 2. gpgv | gpgv2 | gpgv1
+ 3. libapt-pkg6.0 (>= 2.6.1)
+ 4. debian-archive-keyring
+ 5. libc6 (>= 2.34)
+ 6. libgcc-s1 (>= 3.0)
+ 7. libgnutls30 (>= 3.7.5)
+ 8. libseccomp2 (>= 2.4.2)
+ 9. libstdc++6 (>= 11)
+ 10. libsystemd0
+Files:
++---- etc
+|   +---- apt
+|   |   +---- apt.conf.d
+|   |   |   +---- 01autoremove
+|   |   +---- auth.conf.d
+|   |   +---- keyrings
+|   |   +---- preferences.d
+|   |   +---- sources.list.d
+|   |   +---- trusted.gpg.d
+|   +---- cron.daily
+|   |   +---- apt-compat
+|   +---- kernel
+|   |   +---- postinst.d
+|   +---- logrotate.d
+|       +---- apt
++---- lib
+|   +---- systemd
+|       +---- system
+|           +---- apt-daily-upgrade.service
+|           +---- apt-daily-upgrade.timer
+|           +---- apt-daily.service
+|           +---- apt-daily.timer
++---- usr
+|   +---- bin
+|   |   +---- apt
+|   |   +---- apt-cache
+|   |   +---- apt-cdrom
+|   |   +---- apt-config
+|   |   +---- apt-get
+|   |   +---- apt-key
+|   |   +---- apt-mark
+|   +---- lib
+|   |   +---- apt
+|   |   |   +---- apt-helper
+|   |   |   +---- apt.systemd.daily
+|   |   |   +---- methods
+|   |   |   |   +---- cdrom
+|   |   |   |   +---- copy
+|   |   |   |   +---- file
+|   |   |   |   +---- ftp
+|   |   |   |   +---- gpgv
+|   |   |   |   +---- http
+|   |   |   |   +---- https -> http
+|   |   |   |   +---- mirror
+|   |   |   |   +---- mirror+copy -> mirror
+|   |   |   |   +---- mirror+file -> mirror
+|   |   |   |   +---- mirror+ftp -> mirror
+|   |   |   |   +---- mirror+http -> mirror
+|   |   |   |   +---- mirror+https -> mirror
+|   |   |   |   +---- rred
+|   |   |   |   +---- rsh
+|   |   |   |   +---- ssh -> rsh
+|   |   |   |   +---- store
+|   |   |   +---- planners
+|   |   |   |   +---- dump -> ../solvers/dump
+|   |   |   +---- solvers
+|   |   |       +---- dump
+|   |   +---- dpkg
+|   |   |   +---- methods
+|   |   |       +---- apt
+|   |   |           +---- desc.apt
+|   |   |           +---- install
+|   |   |           +---- names
+|   |   |           +---- setup
+|   |   |           +---- update
+|   |   +---- x86_64-linux-gnu
+|   |       +---- libapt-private.so.0.0 -> libapt-private.so.0.0.0
+|   |       +---- libapt-private.so.0.0.0
+|   +---- share
+|       +---- bash-completion
+|       |   +---- completions
+|       |       +---- apt
+|       +---- bug
+|       |   +---- apt
+|       |       +---- script
+|       +---- doc
+|       |   +---- apt
+|       |       +---- NEWS.Debian.gz
+|       |       +---- README.md.gz
+|       |       +---- changelog.gz
+|       |       +---- copyright
+|       |       +---- examples
+|       |           +---- apt.conf
+|       |           +---- configure-index
+|       |           +---- preferences
+|       |           +---- sources.list
+|       +---- lintian
+|       |   +---- overrides
+|       |       +---- apt
+|       +---- locale
+|       |   +---- ar
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- ast
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- bg
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- bs
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- ca
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- cs
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- cy
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- da
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- de
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- dz
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- el
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- es
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- eu
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- fi
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- fr
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- gl
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- hu
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- it
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- ja
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- km
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- ko
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- ku
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- lt
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- mr
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- nb
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- ne
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- nl
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- nn
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- pl
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- pt
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- pt_BR
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- ro
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- ru
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- sk
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- sl
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- sv
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- th
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- tl
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- tr
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- uk
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- vi
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- zh_CN
+|       |   |   +---- LC_MESSAGES
+|       |   |       +---- apt.mo
+|       |   +---- zh_TW
+|       |       +---- LC_MESSAGES
+|       |           +---- apt.mo
+|       +---- man
+|           +---- de
+|           |   +---- man1
+|           |   |   +---- apt-transport-http.1.gz
+|           |   |   +---- apt-transport-https.1.gz
+|           |   |   +---- apt-transport-mirror.1.gz
+|           |   +---- man5
+|           |   |   +---- apt.conf.5.gz
+|           |   |   +---- apt_auth.conf.5.gz
+|           |   |   +---- apt_preferences.5.gz
+|           |   |   +---- sources.list.5.gz
+|           |   +---- man7
+|           |   |   +---- apt-patterns.7.gz
+|           |   +---- man8
+|           |       +---- apt-cache.8.gz
+|           |       +---- apt-cdrom.8.gz
+|           |       +---- apt-config.8.gz
+|           |       +---- apt-get.8.gz
+|           |       +---- apt-mark.8.gz
+|           |       +---- apt-secure.8.gz
+|           |       +---- apt.8.gz
+|           +---- es
+|           |   +---- man5
+|           |   |   +---- apt_preferences.5.gz
+|           |   +---- man8
+|           |       +---- apt-cache.8.gz
+|           |       +---- apt-cdrom.8.gz
+|           |       +---- apt-config.8.gz
+|           +---- fr
+|           |   +---- man1
+|           |   |   +---- apt-transport-http.1.gz
+|           |   |   +---- apt-transport-https.1.gz
+|           |   |   +---- apt-transport-mirror.1.gz
+|           |   +---- man5
+|           |   |   +---- apt.conf.5.gz
+|           |   |   +---- apt_auth.conf.5.gz
+|           |   |   +---- apt_preferences.5.gz
+|           |   |   +---- sources.list.5.gz
+|           |   +---- man8
+|           |       +---- apt-cache.8.gz
+|           |       +---- apt-cdrom.8.gz
+|           |       +---- apt-config.8.gz
+|           |       +---- apt-get.8.gz
+|           |       +---- apt-mark.8.gz
+|           |       +---- apt-secure.8.gz
+|           |       +---- apt.8.gz
+|           +---- it
+|           |   +---- man5
+|           |   |   +---- apt.conf.5.gz
+|           |   |   +---- apt_preferences.5.gz
+|           |   |   +---- sources.list.5.gz
+|           |   +---- man8
+|           |       +---- apt-cache.8.gz
+|           |       +---- apt-cdrom.8.gz
+|           |       +---- apt-config.8.gz
+|           |       +---- apt-get.8.gz
+|           |       +---- apt-mark.8.gz
+|           |       +---- apt-secure.8.gz
+|           |       +---- apt.8.gz
+|           +---- ja
+|           |   +---- man5
+|           |   |   +---- apt.conf.5.gz
+|           |   |   +---- apt_preferences.5.gz
+|           |   |   +---- sources.list.5.gz
+|           |   +---- man8
+|           |       +---- apt-cache.8.gz
+|           |       +---- apt-cdrom.8.gz
+|           |       +---- apt-config.8.gz
+|           |       +---- apt-get.8.gz
+|           |       +---- apt-mark.8.gz
+|           |       +---- apt-secure.8.gz
+|           |       +---- apt.8.gz
+|           +---- man1
+|           |   +---- apt-transport-http.1.gz
+|           |   +---- apt-transport-https.1.gz
+|           |   +---- apt-transport-mirror.1.gz
+|           +---- man5
+|           |   +---- apt.conf.5.gz
+|           |   +---- apt_auth.conf.5.gz
+|           |   +---- apt_preferences.5.gz
+|           |   +---- sources.list.5.gz
+|           +---- man7
+|           |   +---- apt-patterns.7.gz
+|           +---- man8
+|           |   +---- apt-cache.8.gz
+|           |   +---- apt-cdrom.8.gz
+|           |   +---- apt-config.8.gz
+|           |   +---- apt-get.8.gz
+|           |   +---- apt-key.8.gz
+|           |   +---- apt-mark.8.gz
+|           |   +---- apt-secure.8.gz
+|           |   +---- apt.8.gz
+|           +---- nl
+|           |   +---- man1
+|           |   |   +---- apt-transport-http.1.gz
+|           |   |   +---- apt-transport-https.1.gz
+|           |   |   +---- apt-transport-mirror.1.gz
+|           |   +---- man5
+|           |   |   +---- apt.conf.5.gz
+|           |   |   +---- apt_auth.conf.5.gz
+|           |   |   +---- apt_preferences.5.gz
+|           |   |   +---- sources.list.5.gz
+|           |   +---- man7
+|           |   |   +---- apt-patterns.7.gz
+|           |   +---- man8
+|           |       +---- apt-cache.8.gz
+|           |       +---- apt-cdrom.8.gz
+|           |       +---- apt-config.8.gz
+|           |       +---- apt-get.8.gz
+|           |       +---- apt-key.8.gz
+|           |       +---- apt-mark.8.gz
+|           |       +---- apt-secure.8.gz
+|           |       +---- apt.8.gz
+|           +---- pl
+|           |   +---- man5
+|           |   |   +---- apt_preferences.5.gz
+|           |   +---- man8
+|           |       +---- apt-cache.8.gz
+|           |       +---- apt-cdrom.8.gz
+|           |       +---- apt-config.8.gz
+|           +---- pt
+|               +---- man1
+|               |   +---- apt-transport-http.1.gz
+|               |   +---- apt-transport-https.1.gz
+|               |   +---- apt-transport-mirror.1.gz
+|               +---- man5
+|               |   +---- apt.conf.5.gz
+|               |   +---- apt_auth.conf.5.gz
+|               |   +---- apt_preferences.5.gz
+|               |   +---- sources.list.5.gz
+|               +---- man7
+|               |   +---- apt-patterns.7.gz
+|               +---- man8
+|                   +---- apt-cache.8.gz
+|                   +---- apt-cdrom.8.gz
+|                   +---- apt-config.8.gz
+|                   +---- apt-get.8.gz
+|                   +---- apt-key.8.gz
+|                   +---- apt-mark.8.gz
+|                   +---- apt-secure.8.gz
+|                   +---- apt.8.gz
++---- var
+    +---- cache
+    |   +---- apt
+    |       +---- archives
+    |           +---- partial
+    +---- lib
+    |   +---- apt
+    |       +---- lists
+    |       |   +---- partial
+    |       +---- mirrors
+    |       |   +---- partial
+    |       +---- periodic
+    +---- log
+        +---- apt

@@ -1,0 +1,40 @@
+Dependencies:
+ 1. libcurl3-gnutls (= 7.88.1-10+deb12u12)
+Files:
++---- usr
+    +---- bin
+    |   +---- curl-config
+    +---- include
+    |   +---- x86_64-linux-gnu
+    |       +---- curl
+    |           +---- curl.h
+    |           +---- curlver.h
+    |           +---- easy.h
+    |           +---- header.h
+    |           +---- mprintf.h
+    |           +---- multi.h
+    |           +---- options.h
+    |           +---- stdcheaders.h
+    |           +---- system.h
+    |           +---- typecheck-gcc.h
+    |           +---- urlapi.h
+    |           +---- websockets.h
+    +---- lib
+    |   +---- x86_64-linux-gnu
+    |       +---- libcurl-gnutls.a
+    |       +---- libcurl-gnutls.so -> libcurl-gnutls.so.4.8.0
+    |       +---- libcurl.a -> libcurl-gnutls.a
+    |       +---- libcurl.so -> libcurl-gnutls.so
+    |       +---- pkgconfig
+    |           +---- libcurl.pc
+    +---- share
+        +---- aclocal
+        |   +---- libcurl.m4
+        +---- doc
+        |   +---- libcurl4-gnutls-dev
+        |       +---- changelog.Debian.gz
+        |       +---- changelog.gz
+        |       +---- copyright
+        +---- man
+            +---- man1
+                +---- curl-config.1.gz
