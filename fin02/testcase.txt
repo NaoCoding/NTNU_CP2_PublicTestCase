@@ -1,0 +1,8 @@
+./fin02 --output=../../../testing-area/error0.bmp --help
+./fin02 --output=../../../testing-area/0.bmp -a -r 3
+./fin02 --output=../../../testing-area/1.bmp -v
+./fin02 --output=../../../testing-area/2.bmp -t
+./fin02 --output=../../../testing-area/3.bmp --available --ratio=5
+./fin02 --output=../../../testing-area/error1.bmp -a -r -4294967295
+./fin02 --output=../../../testing-area/error2.bmp -a -v --ratio=1.1
+./fin02 --output=../../../testing-area/error3.bmp -a -v --ratio=5.0000000000000000001
